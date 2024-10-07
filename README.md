@@ -28,13 +28,13 @@ Every time Matt Mullenweg has lied, misrepresented or behaved in a questionable 
 
 Obviously "everyone" does not think that WPE own GraphQL because GraphQL has nothing to do with WordPress.
 
-### 2024-10-05 
+### 2024-10-05
 
 #### Announces Advanced Custom Fields security vulnerability
 
 In a [since deleted tweet](https://x.com/automattic/status/1842612123488473341) Automattic (Matt) violates responsible disclosure by announcing a vulnerability in WPEngine's ACF plugin.
 
-> Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: https://www.cve.org/CVERecord?id=CVE-2024-9529
+> Automattic's security team has responsibly disclosed a vulnerability in @wp_acf to @wpengine. As is standard, they have 30 days to issue a fix before public disclosure. We have reserved this CVE for the issue: <https://www.cve.org/CVERecord?id=CVE-2024-9529>
 
 #### Refuses to leave former Automattic employee Slack channel
 
@@ -82,7 +82,7 @@ Per [Mike Julian on Twitter](https://x.com/mike_julian/status/184276061039382572
 
 #### Lies about reason to own WordPress.org himself
 
-> The Foundation is a 501c3, so if it ran http://WordPress.org we'd have to remove all commercial plugins and anything that could be seen as promoting a for-profit. Would you like that? ~[@photomatt on X](https://x.com/photomatt/status/1841399185649623074)
+> The Foundation is a 501c3, so if it ran <http://WordPress.org> we'd have to remove all commercial plugins and anything that could be seen as promoting a for-profit. Would you like that? ~[@photomatt on X](https://x.com/photomatt/status/1841399185649623074)
 
 The WordPress Foundation has many for-profit subsidiaries.
 
@@ -98,7 +98,7 @@ Later admits Automattic finances WordPress.org.
 
 ### 2024-09-29
 
-#### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU).
+#### Appears on [Theo - t3․gg](https://www.youtube.com/@t3dotgg)'s YouTube channel for [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU)
 
 ### 2024-09-28
 
@@ -131,7 +131,7 @@ Matt has published information about his personal philanthropy many times.
 Matt modifies the [WordPress trademark policy](https://wordpressfoundation.org/trademark-policy/) to add:
 
 > The abbreviation “WP” is not covered by the WordPress trademarks, but please don’t use it in a way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. They have never once even donated to the WordPress Foundation, despite making billions of revenue on top of WordPress.
-> 
+>
 > If you would like to use the WordPress trademark commercially, please contact Automattic, they have the exclusive license. Their only sub-licensee is Newfold.
 
 ### 2024-09-21
@@ -153,7 +153,7 @@ Matt goes on to say:
 WP Engine responds in [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf).
 
 > What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.
-> 
+>
 > The post falsely states, “What WP Engine gives you is not WordPress, it’s something that they’ve chopped up, hacked, butchered to look like WordPress, but actually they’re giving you a cheap knock-off and charging you more for it.” In truth, WP Engine’s WordPress installations are identical to the WordPress.org ZIP file which defines WordPress.  ~[Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 
 Automattic themselves disable a wide variety of features in their paid products, like WordPress.com, Pressable and JetPack.
@@ -171,7 +171,7 @@ Automattic themselves disable a wide variety of features in their paid products,
 ### Interviews
 
 | Title | Date |
-| ---- | ---- | 
+| ---- | ---- |
 | [The WordPress Interview](https://www.youtube.com/watch?v=OUJgahHjAKU) | 2024-09-29 |
 
 ### Documents
@@ -180,6 +180,10 @@ Automattic themselves disable a wide variety of features in their paid products,
 |--|--|
 | [Complaint-WP-Engine-v-Automattic-et-al.pdf](https://wpengine.com/wp-content/uploads/2024/10/Complaint-WP-Engine-v-Automattic-et-al.pdf) | 2024-10-02 |
 | [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf) | 2024-09-23 |
+
+### Pacer Monitor
+
+* [WP Engine v. Automattic](https://www.pacermonitor.com/public/case/55306021/WPEngine,_Inc_v_Automattic_Inc_et_al)
 
 ## Contributions
 
